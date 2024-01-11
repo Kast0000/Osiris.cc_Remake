@@ -1,7 +1,7 @@
 
      Osiris.cc Remake Leaked By Kast
         Script Description
-             This is not real osiris.cc this is a remake that uses the same source as them [ ALMOST ]
+             This is not real osiris.cc this is a remake that uses the same source as them maybe who knows
              I would recommend using this because 60$ for a script thats barley good is insane
               Good features auto resolver that hits shots and resolves good auto prediction and good gunfov
              Some of the features are fake like AirShotSmooth and stickness [ mostly features that isnt being used alot ]
